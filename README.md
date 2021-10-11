@@ -1,4 +1,4 @@
-# Hello, I'm Daniele Dan 👋
+# Hello, I'm Daniele 👋
 
 ![Python](https://img.shields.io/badge/Python-Expert-red)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
