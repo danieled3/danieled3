@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-Expert-red)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![R](https://img.shields.io/badge/R-Intermediate-yellow)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![Java](https://img.shields.io/badge/Java-Intermediate-green)
+![Matlab](https://img.shields.io/badge/Matlab-Basic-brown)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-blue)
 
 Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professional experience. Constant learner with passion for coding and technology.
