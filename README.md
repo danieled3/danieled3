@@ -20,9 +20,9 @@ You can find here some projects I have worked on in my spare time. I hope they c
 
 ### 📬 Get in Touch
 
-- GitHub: [https://github.com/danieled3][GitHub]
-- LinkedIn: [https://www.linkedin.com/in/danieledan/][LinkedIn]
-- Site: [https://danieled3.github.io/Data_Science_Portfolio/][site]
+- GitHub: https://github.com/danieled3
+- LinkedIn: https://www.linkedin.com/in/danieledan
+- Site: https://danieled3.github.io/Data_Science_Portfolio
 - E-mail: daniele.dan@outlook.com
 
 ### 📚 Feel free to contact me!
