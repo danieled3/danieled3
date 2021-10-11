@@ -7,7 +7,7 @@
 ![Matlab](https://img.shields.io/badge/Matlab-Basic-brown)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-blue)
 
-Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professional experience. Constant learner with passion for coding and technology.
+Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professional experience. Constant learner with passion for coding and technology. You can find here some projects I have worked on in my spare time. I hope they can be helpful.
 <!--
 - 🔭 Master's degree in **Computer Science** at UniPD
 - 🌱 I’m currently learning **Cyber Security** at UniMore
@@ -16,7 +16,6 @@ Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professio
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
 -->
-You can find here some projects I have worked on in my spare time. I hope they can be helpful.
 
 ### 📬 Get in Touch
 
