@@ -14,11 +14,13 @@
 ![Matlab](https://img.shields.io/badge/Matlab-Basic-brown)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-blue)
 
+### 🧐 Me in a nutshell:
+
 Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professional experience. Constant learner with passion for coding and technology. You can find here some projects I have worked on in my spare time. I hope they can be helpful.
 
-### 🧐 More About Me:
+### 🧐 Something more:
 
-- 🔭 &nbsp; I’m currently working on my project **Trady, your personal trading assistant**, you can find a video demo in the README.md
+- 🔭 &nbsp; I’m currently working on [**Trady**](https://github.com/danieled3/Autotrading), you can find a video demo in the README.md
 - 🌱 &nbsp; I’m currently studying Ethics AI and Explainable AI 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/danieled3/danieled3?tab=repositories)
 - 📚 &nbsp; You can also check my [website](https://danieled3.github.io/Data_Science_Portfolio/)  with my projects and some tech speeches about blockchains, neural networks and other interesting stuff
