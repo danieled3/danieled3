@@ -20,7 +20,7 @@ Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professio
 
 ### 🧐 Something more:
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29163695/138174917-a9ec8b4e-0658-41e9-8ec1-fb4e744f4fe0.gif" width="460px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29163695/138174917-a9ec8b4e-0658-41e9-8ec1-fb4e744f4fe0.gif" width="400px"/>
 
 - 🔭 &nbsp; I’m currently working on [**Trady**](https://github.com/danieled3/Autotrading), you can find a video demo in the README.md
 - 🌱 &nbsp; I’m currently studying Ethics AI and Explainable AI 
