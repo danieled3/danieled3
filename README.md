@@ -28,6 +28,10 @@ Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professio
 - 💬 &nbsp; Ask me about anything about Machine Learning or Deep Learning, I am happy to help and collaborate to open source projects
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieled3&layout=compact&theme=react&border=61dafb&hide_border=true)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieled3&layout=compact&theme=react&border=61dafb&hide_border=true"/>
+  </a>
+</p>
 
 
