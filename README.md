@@ -27,8 +27,7 @@ Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professio
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/danieled3/danieled3?tab=repositories)
 - 📚 &nbsp; You can also check my [website](https://danieled3.github.io/Data_Science_Portfolio/)  with my projects and some tech speeches about blockchains, neural networks and other interesting stuff
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danieledan)
-- 💬 &nbsp; Ask me about anything about Machine Learning or Deep Learning, I am happy to help and collaborate to open source projects
-
+- 💬 &nbsp; Ask me about anything about Machine Learning or Deep Learning, I am happy to help and collaborate
 
 <p align="center">
     <img title="" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieled3&layout=compact&theme=react&border=61dafb&hide_border=true"/>
