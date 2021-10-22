@@ -24,7 +24,7 @@ Seasoned Data Scientist and Machine Learning Engineer with 5+ years of professio
 
 - 🔭 &nbsp; I’m currently working on [**Trady**](https://github.com/danieled3/Autotrading), you can find a video demo in the README.md
 - 🌱 &nbsp; I’m currently studying Ethics AI and Explainable AI 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/danieled3/danieled3?tab=repositories)
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [GitHub](https://github.com/danieled3/danieled3?tab=repositories), unfortunately the ones I develop for companies are not publishable
 - 📚 &nbsp; You can also check my [website](https://danieled3.github.io/Data_Science_Portfolio/)  with my projects and some tech speeches about blockchains, neural networks and other interesting stuff
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danieledan)
 - 💬 &nbsp; Ask me about machine learning or deep learning, I am happy to help and collaborate
